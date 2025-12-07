@@ -1,10 +1,10 @@
 # HaldenOS
 
-A minimal 32-bit operating system written in C and Assembly from scratch.
+A minimal 64-bit operating system written in C and Assembly from scratch.
 
 ## Features
 
-- Custom bootloader (no GRUB dependency)
+- Custom bootloader
 - 32-bit protected mode kernel
 - VGA text mode display (80x25)
 - PS/2 keyboard support
